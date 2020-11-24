@@ -1,4 +1,3 @@
-<script>
 "use strict";
 
 let ar=[10, 10, 10, 20];
@@ -44,4 +43,3 @@ function sockMerchant(n, ar) {
     }
 }
 console.log(sockMerchant(n, ar));
-</script>
